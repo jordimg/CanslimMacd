@@ -1,0 +1,2 @@
+# CanslimMacd
+Screener alata 
